@@ -3,10 +3,17 @@
 
 - 🌱 I’m currently learning **Asp.NET & Angular**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehmet-yusuf-akalan-227657221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehmet-yusuf-akalan-227657221/" height="30" width="40" /></a>
-</p>
+# Contact
+<!-- display the social media buttons in your README -->
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][0]
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][1]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][2]
+
+<!-- To Link your profile to the media buttons -->
+
+[0]: https://www.instagram.com/kkanazaki4395
+[1]: https://www.twitter.com/threeamigos06
+[2]: https://www.linkedin.com/in/mehmet-yusuf-akalan-227657221/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
