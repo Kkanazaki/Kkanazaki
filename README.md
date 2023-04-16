@@ -12,7 +12,7 @@
 <!-- To Link your profile to the media buttons -->
 
 [0]: https://www.instagram.com/kkanazaki4395
-[1]: https://www.twitter.com/threeamigos06
+[1]: https://twitter.com/Kkanazaki4395
 [2]: https://www.linkedin.com/in/mehmet-yusuf-akalan-227657221/
 
 <h3 align="left">Languages and Tools:</h3>
